@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "828266245104",
+    "firebase_url": "https://tridhayajanak.firebaseio.com",
+    "project_id": "tridhayajanak",
+    "storage_bucket": "tridhayajanak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828266245104:android:963f66a96126abe836cb35",
+        "android_client_info": {
+          "package_name": "com.tridhyatech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828266245104-tqfhl66gcu1fb8cvt0g4evbcnmh1tp2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tridhyatech",
+            "certificate_hash": "96b47b18174232d8c2c91932d82faa954ed11e83"
+          }
+        },
+        {
+          "client_id": "828266245104-622uudr4udn8lq7dp2ek2t46evl36p8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMRJrTKcHh6vbPzTvbj4ugdpNRdum8ptA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828266245104-622uudr4udn8lq7dp2ek2t46evl36p8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
